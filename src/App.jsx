@@ -3,6 +3,7 @@ import { Header } from './Header';
 import { MainPage } from './MainPage';
 import { Footer } from './Footer';
 import { Background } from './Background';
+import { ThreeCanvas } from './ThreeCanvas';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Background>
         <Header />
         <MainPage />
+        <ThreeCanvas />
         <Footer />
       </Background>
     </>

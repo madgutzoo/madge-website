@@ -1,6 +1,6 @@
 export const Background = ({ children }) => {
   return (
-    <div className="relative w-full h-full min-h-screen overflow-hidden">
+    <div className="relative w-full h-full min-h-screen overflow-hidden z-0">
       <img
         src="/Test_0094.png"
         alt="colourful background"
