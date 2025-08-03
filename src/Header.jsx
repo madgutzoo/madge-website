@@ -1,7 +1,12 @@
 export const Header = () => {
   return (
-    <div className="font-monument text-8xl p-4 bg-blue-300/45 w-full tracking-widest">
-      <h1>MADGE JINGCHU ZHOU</h1>
+    <div className=" text-white tracking-[2px] text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-9xl">
+      <h1
+        style={{
+          fontFamily: '"Helvetica Neue", Helvetica, Arial, sans-serif',
+        }}>
+        MADGE ZHOU
+      </h1>
     </div>
   );
 };

@@ -11,7 +11,7 @@ function App() {
       <Background>
         <Header />
         <MainPage />
-        <ThreeCanvas />
+        {/* <ThreeCanvas /> */}
         <Footer />
       </Background>
     </>
